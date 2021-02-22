@@ -1,9 +1,11 @@
 ## Smart home wireless network for BCI application based on Zigbee protocol 
 2009, Li Shen 
 @ Lab of Engineering, Department of Bio-medical Engineering, Tsinghua University
+
  <p align="center">
   <img src="https://li-shen-amy.github.io/profile/images/projects/zigbee.png" />
 </p>
+
 Brain-computer interface (BCI) is a technology that builds a communication pathway between brain and external devices. It enables paralyzed patients to control the external devices by decoding their brain signals. Combined with smart home system, BCI can further benefit the patients by wirelessly controlled the home appliances by “mind” and largely improve the life quality. Here I designed and implemented communication modular for smart home control for BCI application based on Zigbee protocol.
 In this project, the patterns of EEG which extracted from the BCI core system can be translated into various household appliances’ control instruction or parameters changes. Then the control instruction from the host computer (MCU or PC) is sent to the designated appliances via Zigbee wireless communication technology and is translated into infrared control signal to control the home appliance. Finally, these hardware are forming a one-to-many smart home system. Its normal work range exceeds 10 m and can decode and save all kinds of household appliances used the infrared codes.
 This work also developed a system of infrared codes learning supporting software, a household electrical appliances remote control user-interface program. The whole BCI system based on the steady state visual evoked potential (SSVEP) extracting the EEG patterns, translating into commands to control LCD TV, Music player etc. 

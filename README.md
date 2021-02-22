@@ -17,7 +17,9 @@ Among wireless communication technologies, the advantages of Bluetooth are simpl
 The research and development purpose of Zigbee system is to be suitable for low power consumption, wireless connection monitoring and control system. The system adopts direct sequence spread spectrum communication (DSSS) with high anti-interference performance, 64-bit factory number and supports AES-128 encryption. The data transmission rate of the RF front end of each network module of ZigBee is about 250K. The advantages of the ZigBee standard include: low cost, safety, reliability and self-healing, flexible and scalable, low power consumption, use of global unrestricted radio frequency bands, intelligent network establishment and information routing, etc.
 The Zigbee network can also be connected to the Internet, GPRS network, CDMA1x network and other communication system lines through various methods such as interface cards to realize remote control. We can also connect two or more local Zigbee networks together through other networks. The redundancy, self-configuration, and self-healing capabilities of ZigBee wireless mesh networks are ideal for many applications.
 # Control flow
- 
+ <p align="center">
+  <img src="https://li-shen-amy.github.io/profile/images/projects/zigbee_flow.png" />
+</p>
 
 
 
